@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Made In China",
+  "base_artist": "Higher Brothers",
+  "createdAt": "2026-01-09T17:09:00.186786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Odhani (From \"Made in China\")",
+      "artist": "Sachin-Jigar feat. Darshan Raval & Neha Kakkar",
+      "has_synced": true,
+      "path": "select/01_Odhani_(From__Made_in_China_)_Sachin-Jigar_feat._Darshan_Raval_&_Neha_Kakkar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Valam (From \"Made in China\")",
+      "artist": "Sachin-Jigar feat. Arijit Singh & Priya Saraiya",
+      "has_synced": true,
+      "path": "select/02_Valam_(From__Made_in_China_)_Sachin-Jigar_feat._Arijit_Singh_&_Priya_Saraiya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sanedo (From \"Made in China\")",
+      "artist": "Sachin-Jigar feat. Mika Singh, Nikhita Gandhi & Benny Dayal",
+      "has_synced": true,
+      "path": "select/03_Sanedo_(From__Made_in_China_)_Sachin-Jigar_feat._Mika_Singh,_Nikhita_Gandhi_&_Benny_Dayal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Naari Naari Song (From \"Made in China\")",
+      "artist": "Sachin-Jigar feat. Vishal Dadlani & Jonita Gandhi",
+      "has_synced": true,
+      "path": "select/04_The_Naari_Naari_Song_(From__Made_in_China_)_Sachin-Jigar_feat._Vishal_Dadlani_&_Jonita_Gandhi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Odhani (From \"Made in China\")",
+      "artist": "Sachin-Jigar / Darshan Raval / Neha Kakkar",
+      "has_synced": true,
+      "path": "select/05_Odhani_(From__Made_in_China_)_Sachin-Jigar___Darshan_Raval___Neha_Kakkar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Made In China",
+      "artist": "Higher Brothers feat. DJ Snake",
+      "has_synced": true,
+      "path": "select/06_Made_In_China_Higher_Brothers_feat._DJ_Snake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Made In China (Original Mix)",
+      "artist": "Higher Brothers & DJ Snake",
+      "has_synced": true,
+      "path": "select/07_Made_In_China_(Original_Mix)_Higher_Brothers_&_DJ_Snake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Made In China",
+      "artist": "Higher Brothers, DJ Snake",
+      "has_synced": true,
+      "path": "select/08_Made_In_China_Higher_Brothers,_DJ_Snake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Made In China",
+      "artist": "Higher Brothers feat. Famous Dex",
+      "has_synced": true,
+      "path": "select/09_Made_In_China_Higher_Brothers_feat._Famous_Dex.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Made in China (feat. Famous Dex)",
+      "artist": "Higher Brothers",
+      "has_synced": true,
+      "path": "select/10_Made_in_China_(feat._Famous_Dex)_Higher_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Made in China",
+      "artist": "Victoria Monet feat. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/11_Made_in_China_Victoria_Monet_feat._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Made In China",
+      "artist": "Victoria Monét Ft. Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/12_Made_In_China_Victoria_Monét_Ft._Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Valam (From \"Made in China\")",
+      "artist": "Sachin-Jigar, Arijit Singh & Priya Saraiya",
+      "has_synced": true,
+      "path": "select/13_Valam_(From__Made_in_China_)_Sachin-Jigar,_Arijit_Singh_&_Priya_Saraiya.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Made in China",
+      "artist": "Quimby",
+      "has_synced": true,
+      "path": "select/14_Made_in_China_Quimby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Valam (From \"Made in China\")",
+      "artist": "Sachin-Jigar",
+      "has_synced": true,
+      "path": "select/15_Valam_(From__Made_in_China_)_Sachin-Jigar.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Odhani (From \"Made in China\")",
+      "artist": "Sachin-Jigar",
+      "has_synced": true,
+      "path": "select/16_Odhani_(From__Made_in_China_)_Sachin-Jigar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Naari Naari Song (From \"Made in China\")",
+      "artist": "Sachin-Jigar",
+      "has_synced": true,
+      "path": "select/17_The_Naari_Naari_Song_(From__Made_in_China_)_Sachin-Jigar.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Made In China",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/18_Made_In_China_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Naari Naari Song (From \"Made in China\")",
+      "artist": "Sachin-Jigar, Vishal Dadlani & Jonita Gandhi",
+      "has_synced": true,
+      "path": "select/19_The_Naari_Naari_Song_(From__Made_in_China_)_Sachin-Jigar,_Vishal_Dadlani_&_Jonita_Gandhi.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Made In China",
+      "artist": "Victoria Monét",
+      "has_synced": true,
+      "path": "select/20_Made_In_China_Victoria_Monét.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Made In China",
+      "artist": "Higher Brothers & DJ Snake",
+      "has_synced": false,
+      "path": "select/pl_01_Made_In_China_Higher_Brothers_&_DJ_Snake.txt"
+    }
+  ]
+}
